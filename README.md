@@ -1,6 +1,5 @@
 # Derm-foundation-model-covid-19-detection
-A Transfer Learning Approach for SARS-CoV-2 Detection by Fine-Tuning BiT-101x3 (derm-foundation) CNN on Chest X-ray
-
+Transfer Learning-Based COVID-19 Detection Using Chest X-Ray Images with a Pretrained Neural Network and Custom Classifier
 
 # Study Objection 
 The objective of this study is to develop and evaluate a machine learning-based COVID-19 detection system using chest X-ray images. By leveraging a pretrained model for feature extraction and a custom neural network classifier, the system aims to accurately classify chest X-ray images as either "Normal" or "COVID." The study focuses on optimizing the workflow, including data preprocessing, feature extraction, model training, and visualization, to ensure reliability and interpretability of the results. This research seeks to contribute to the growing field of AI-driven diagnostic tools for early and efficient detection of COVID-19.
