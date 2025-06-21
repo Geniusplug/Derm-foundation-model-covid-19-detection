@@ -1,0 +1,4 @@
+Download the pretrained models from the following links:
+
+Microsoft/resnet-50Resnet50
+https://huggingface.co/microsoft/resnet-50
