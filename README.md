@@ -57,3 +57,8 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
    python cross_validation.py
    ```
 
+# Additional Setup Instructions
+
+## Step 7: Delete Temporary Files
+1. After cloning the project, delete all `read.txt` files from the directories to clean up temporary files.
+
