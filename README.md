@@ -1,5 +1,5 @@
 # Google Derm-foundation-model-covid-19-detection
-Paper Title ( IEEE)
+Paper Title ( IEEE):
 Transfer Learning-Based COVID-19 Detection Using Chest X-Ray Images with a Pretrained Neural Network and Custom Classifier
 
 # Study Objection 
