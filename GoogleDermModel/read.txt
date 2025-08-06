@@ -1,3 +1,0 @@
-Download the pretrained models from the following links:
-Google Derm Foundation Model
-https://huggingface.co/google/derm-foundation
