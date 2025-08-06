@@ -1,4 +1,0 @@
-Download the pretrained models from the following links:
-
-keras-io/VGG19 
-https://huggingface.co/keras-io/VGG19/tree/main
